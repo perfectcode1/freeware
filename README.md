@@ -1,5 +1,5 @@
 # jsPhpDate
-This is an easy to use javascript date extension that enables your to use php style date formats.
+This is an easy to use javascript date extension that enables you to use php style date formats.
 
 To use, simple include the [ jsPhpDate.js ](https://github.com/perfectcode1/jsPhpDate/blob/94cd1d3dbd66925e1a7c5cc930c8ec47d50d6630/jsPhpDate.min.js)  file in your project.
 
