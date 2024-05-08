@@ -1,13 +1,13 @@
 # Freeware
 This is an easy to use javascript date extension that enables your to use php style date formats.
 
-To use, simple include the [ jsPhpDate.js ](https://github.com/perfectcode1/freeware/blob/b723565f0af56e4c003ea00050177a311cdb3f78/jsPhpDate.min.js)  file in your project.
+To use, simple include the [ jsPhpDate.js ](https://github.com/perfectcode1/jsPhpDate/blob/94cd1d3dbd66925e1a7c5cc930c8ec47d50d6630/jsPhpDate.min.js)  file in your project.
 
 # Examples
 ```
 dateformat = "j-F-Y";
 dateformat2 = "D, j M Y H:i:s O";
-dateformat3 = "j.n.Y H:iP";`
+dateformat3 = "j.n.Y H:iP";
 dateformat4 = "l jS \\o\\f F Y h:i:s A";
 
 console.log(new Date().phpFormat(dateformat));
