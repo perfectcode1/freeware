@@ -3,7 +3,8 @@ This is an easy to use javascript date extension that enables you to use php sty
 
 To use, simple include the [ jsPhpDate.js ](https://github.com/perfectcode1/jsPhpDate/blob/94cd1d3dbd66925e1a7c5cc930c8ec47d50d6630/jsPhpDate.min.js)  file in your project.
 
-*** You may use this link in your html header for use in a browser ***
+*_You may use this link in your html header for use in a browser_*
+
  ```
 <script type="text/javascript" src="https://api.ultison.com/jsphpdate.min.js" ></script>
   ```
